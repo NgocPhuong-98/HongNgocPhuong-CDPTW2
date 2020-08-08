@@ -1,0 +1,24 @@
+module 18
+hhttps://blak.codelayers.net/index.php/pages/about/about-me
+module 21
+https://blak.codelayers.net/index.php/pages/about/about-me
+module 22
+https://blak.codelayers.net/index.php/features/headers/header-light
+module 37
+https://blak.codelayers.net/index.php/features/footer-styles/footer-modern
+module 38
+https://blak.codelayers.net/index.php/features/headers/header-light
+module 39
+https://blak.codelayers.net/index.php/pages/about/about-me
+module 66
+https://blak.codelayers.net/index.php/pages/about/about-style-4
+module 67
+https://blak.codelayers.net/index.php/pages/other-pages-1/coming-soon
+module 68
+https://blak.codelayers.net/index.php/features/footer-styles/footer-dark
+modoule 69
+https://blak.codelayers.net/index.php/features/footer-styles/footer-modern
+module 71
+https://blak.codelayers.net/index.php/features/menu-styles/menu-boxed
+module 72
+https://blak.codelayers.net/index.php/features/headers/header-light
