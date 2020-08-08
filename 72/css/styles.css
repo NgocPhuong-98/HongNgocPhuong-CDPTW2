@@ -1,0 +1,24 @@
+.menu-light {
+  padding-top: 70px;
+  padding-right: 0px;
+  padding-bottom: 70px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  background-color: #fccb06; }
+  .menu-light .title {
+    margin-bottom: 30px;
+    font-weight: 300;
+    color: #fff; }
+  .menu-light .btn {
+    color: #fff;
+    border-color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 10px 30px; }
+    .menu-light .btn:hover {
+      color: #242424;
+      background-color: #fff;
+      border-color: #fff; }

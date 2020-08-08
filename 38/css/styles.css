@@ -1,0 +1,77 @@
+.type-38 {
+  padding: 20px; }
+  .type-38 .khoangcach {
+    height: 40px; }
+    .type-38 .text-38 .text-box {
+      width: 100%;
+      padding: 33px;
+      float: left;
+      border: 1px solid #ebebeb;
+      background-color: #fff;
+      transition: all 0.3s ease-out 0s; }
+      .type-38 .text-38 .text-box .left {
+        float: left; }
+      .type-38 .text-38 .text-box .padding-left {
+        padding: 0px 0 0px 70px; }
+      .type-38 .text-38 .text-box .icon-plan-msmall {
+        margin: 0px 20px 0px 0px;
+        font-size: 40px;
+        color: #242424;
+        transition: all 0.3s ease-out 0s; }
+      .type-38 .text-38 .text-box .text-boxs {
+        display: block;
+        margin: 20px 0 0 0; }
+        .type-38 .text-38 .text-box .text-boxs .text-primary {
+          color: #fccb06 !important; }
+        .type-38 .text-38 .text-box .text-boxs .text-box-title {
+          font-size: 18px;
+          line-height: 23px;
+          margin-bottom: 16px;
+          font-style: normal;
+          font-weight: 500;
+          transition: all 0.3s ease-out 0s; }
+      .type-38 .text-38 .text-box .box-btn {
+        width: 100%;
+        text-transform: uppercase; }
+        .type-38 .text-38 .text-box .box-btn .text-primary {
+          color: #fccb06 !important; }
+        .type-38 .text-38 .text-box .box-btn:hover {
+          color: #fccb06; }
+      .type-38 .text-38 .text-box .swiper-container {
+        width: 100%;
+        height: 100%; }
+      .type-38 .text-38 .text-box .swiper-slide {
+        text-align: center;
+        font-size: 18px;
+        background: #fff;
+        /* Center slide text vertically */
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-pack: center;
+        -ms-flex-pack: center;
+        -webkit-justify-content: center;
+        justify-content: center;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        -webkit-align-items: center;
+        align-items: center; }
+  .type-38 .box-38 .item {
+    position: relative; }
+    .type-38 .box-38 .item .img-text {
+      position: absolute;
+      padding: 20px;
+      float: left;
+      bottom: 0px;
+      left: 0px;
+      width: 100%; }
+      .type-38 .box-38 .item .img-text span {
+        position: absolute;
+        padding: 20px 40px;
+        background-color: #fff;
+        bottom: 0px;
+        left: 0px;
+        font-size: 20px; }
+        .type-38 .box-38 .item .img-text span .text-primary {
+          color: #fccb06 !important; }

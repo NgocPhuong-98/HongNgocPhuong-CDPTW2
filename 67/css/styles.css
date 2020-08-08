@@ -1,0 +1,29 @@
+.type-67 .coming {
+  padding-top: 100px;
+  padding-right: 0px;
+  padding-bottom: 100px;
+  padding-left: 0px;
+  margin: 30px;
+  background-color: #fccb06; }
+  .type-67 .coming .title {
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 40px;
+    line-height: 40px;
+    margin-bottom: 20px;
+    font-style: normal; }
+  .type-67 .coming .cos {
+    font-size: 25px;
+    line-height: 25px;
+    margin-bottom: 18px;
+    font-style: normal; }
+  .type-67 .coming .text-timer {
+    line-height: 80px;
+    font-size: 36px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.29);
+    margin: 30px 0;
+    width: 100% !important;
+    padding: 20px 0;
+    height: auto !important; }

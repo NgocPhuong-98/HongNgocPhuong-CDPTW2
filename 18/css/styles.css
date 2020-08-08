@@ -1,0 +1,26 @@
+.type-18 .sppb-colum .sppb-addon {
+  border: 1px solid #ebebeb;
+  margin: 100px 0;
+  padding: 70px; }
+  .type-18 .sppb-colum .sppb-addon .sppb-addon-title {
+    font-weight: 600;
+    line-height: 40px;
+    font-size: 38px;
+    margin-bottom: 3px; }
+    .type-18 .sppb-colum .sppb-addon .sppb-addon-center .ce-title-line {
+      width: 12%;
+      height: 2px;
+      background-color: #fccb06;
+      margin: 15px auto 0 auto; }
+    .type-18 .sppb-colum .sppb-addon .sppb-addon-center .texts {
+      font-size: 14px;
+      font-weight: 400;
+      color: #727272; }
+    .type-18 .sppb-colum .sppb-addon .sppb-addon-center .btn {
+      border-radius: 5px;
+      background-color: black;
+      color: white;
+      padding: 10px 30px; }
+      .type-18 .sppb-colum .sppb-addon .sppb-addon-center .btn:hover {
+        color: #fff;
+        background-color: #3e3e3e; }

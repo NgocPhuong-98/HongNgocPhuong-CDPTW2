@@ -1,0 +1,107 @@
+.type-38 {
+    padding: 20px;
+    .khoangcach {
+        height: 40px;
+    }
+
+    //Header_38-right
+    .text-38 {
+        .text-box {
+            width: 100%;
+            padding: 33px;
+            float: left;
+            border: 1px solid #ebebeb;
+            background-color: #fff;
+            transition: all 0.3s ease-out 0s;
+            .left {
+                float: left;
+            }
+            .padding-left {
+                padding: 0px 0 0px 70px;
+            }
+
+            .icon-plan-msmall {
+                margin: 0px 20px 0px 0px;
+                font-size: 40px;
+                color: #242424;
+                transition: all 0.3s ease-out 0s;
+            }
+            .text-boxs {
+                display: block;
+                margin: 20px 0 0 0;
+                .text-primary {
+                    color: #fccb06 !important;
+                }
+                .text-box-title {
+                    font-size: 18px;
+                    line-height: 23px;
+                    margin-bottom: 16px;
+                    font-style: normal;
+                    font-weight: 500;
+                    transition: all 0.3s ease-out 0s;
+                }
+            }
+
+            .box-btn {
+                width: 100%;
+                text-transform: uppercase;
+                .text-primary {
+                    color: #fccb06 !important;
+                }
+                &:hover {
+                    color: #fccb06;
+                }
+            }
+            .swiper-container {
+                width: 100%;
+                height: 100%;
+            }
+
+            .swiper-slide {
+                text-align: center;
+                font-size: 18px;
+                background: #fff;
+
+                /* Center slide text vertically */
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: -webkit-flex;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                -webkit-justify-content: center;
+                justify-content: center;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                -webkit-align-items: center;
+                align-items: center;
+            }
+        }
+    }
+    //Header_38-left
+    .box-38 {
+        .item {
+            position: relative;
+
+            .img-text {
+                position: absolute;
+                padding: 20px;
+                float: left;
+                bottom: 0px;
+                left: 0px;
+                width: 100%;
+                span {
+                    position: absolute;
+                    padding: 20px 40px;
+                    background-color: #fff;
+                    bottom: 0px;
+                    left: 0px;
+                    font-size: 20px;
+                    .text-primary {
+                        color: #fccb06 !important;
+                    }
+                }
+            }
+        }
+    }
+}
